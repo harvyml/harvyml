@@ -1,5 +1,5 @@
 ### Hi there 👋 i'm Harvy
-I am a Frontend developer living in Cali, a city in Colombia. I love building web applications using the MERN stack, I've been working freelance for a long time, however I'm always open to corporate jobs. (I love the startup kind of company though).I really like to collaborate, If you have an idea you can share it with me, maybe we can help each other out!
+I am a Frontend developer living in Cali, a city in Colombia. I love building web apps using the **MERN stack**, I've been working freelance for a long time, however **I'm always open to corporate jobs**. (I love the startup kind of company though). **I really like to collaborate**, If you have an idea you can share it with me, maybe we can help each other out!
 
 I'm currently working on [vozmagazine.com](https://vozmagazine.com)
 
