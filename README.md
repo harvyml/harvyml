@@ -3,7 +3,7 @@ I am a Frontend developer living in Cali, a city in Colombia. I love building we
 
 I'm currently working on [vozmagazine.com](https://vozmagazine.com)
 
-![Voz Magazine](https://heml12346.github.io/harvyesteban/assets/vozmagazine.png)
+![Voz Magazine](https://harvyml.github.io/harvyesteban/assets/vozmagazine.png)
 
 Voz Magazine is a project for independent journalism, I'm part of an incredible team of students that make a great effort in bringing the most honest journalism out for the Colombian comunity, the project is up and running. Go check it out!
 Stack: Mongo, Express, React, Node
@@ -11,7 +11,7 @@ Stack: Mongo, Express, React, Node
 
 I never stop learning, I've been doing some fun stuff with **react-native** lately.
 
-Want to know more? Go check [my porfolio](https://heml12346.github.io/harvyesteban/) to see all of the projects that I've worked on.
+Want to know more? Go check [my porfolio](https://harvyml.github.io/harvyesteban/) to see all of the projects that I've worked on.
 
 
 ##### Why don't we work together? 
